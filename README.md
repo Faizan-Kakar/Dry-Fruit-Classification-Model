@@ -9,7 +9,7 @@ This project implements a deep learning-based image classification model to clas
 
 ### 1️⃣ Clone the Repository
 ```bash
-  [git clone https://github.com/YourUsername/Project-Name.git](https://github.com/Faizan-Kakar/Dry-Fruit-Classification-Model.git)
+  https://github.com/Faizan-Kakar/Dry-Fruit-Classification-Model.git
   cd Project-Name
 ```
 
