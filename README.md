@@ -5,20 +5,6 @@ i.e { Almond, Pistatios, Peanut, Walnut, Raisin, Fig, Cashew }
 ## 📌Project Overview
 This project implements a deep learning-based image classification model to classify dry fruits into 7 categories using the VGG16 convolutional neural network. The model is trained on a dataset of dry fruit images and leverages transfer learning to achieve high accuracy.
 
-## 🔧 Setup & Requirements
-
-### 1️⃣ Clone the Repository
-```bash
-  https://github.com/Faizan-Kakar/Dry-Fruit-Classification-Model.git
-  cd Project-Name
-```
-
-
-## 2️⃣ Install Dependencies
-```bash
-   pip install -r requirements.txt
-
-```
 
 ## 📑 Notebook Sections
 - ✅ 1. Import Libraries
@@ -41,5 +27,3 @@ bash
 Copy
 Edit
 
-## 📝 Results & Model Performance
-📊 Include accuracy, loss graphs, and final model evaluation results.
