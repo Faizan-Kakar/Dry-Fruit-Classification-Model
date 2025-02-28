@@ -21,12 +21,12 @@ This project implements a deep learning-based image classification model to clas
 ```
 
 ## 📑 Notebook Sections
-✅ 1. Import Libraries
-✅ 2. Load & Preprocess Data
-✅ 3. Model Architecture
-✅ 4. Training
-✅ 5. Evaluation
-✅ 6. Save & Export Results
+- ✅ 1. Import Libraries
+- ✅ 2. Load & Preprocess Data
+- ✅ 3. Model Architecture
+- ✅ 4. Training
+- ✅ 5. Evaluation
+- ✅ 6. Save & Export Results
 
 
 ## 📌 How to Use the Notebook in Google Colab
@@ -34,7 +34,7 @@ This project implements a deep learning-based image classification model to clas
 2. Click File → Open Notebook
 3. Paste this GitHub link:
 ```bash
-  [[git clone https://github.com/YourUsername/Project-Name.git
+   git clone https://github.com/Faizan-Kakar/Dry-Fruit-Classification-Model/blob/main/DryFruitDetection.ipynb
 ```
 4. Run the notebook step by step
 bash
