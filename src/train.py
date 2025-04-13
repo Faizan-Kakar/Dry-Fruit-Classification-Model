@@ -1,0 +1,1 @@
+sequentialModel.fit(train_batches, epochs=15 )
