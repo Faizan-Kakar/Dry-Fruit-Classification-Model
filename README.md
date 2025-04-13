@@ -18,4 +18,6 @@ The Dry Fruit Classification Model is an advanced machine learning project that 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/dry-fruit-classification.git
-   cd dry-fruit-classification
+2. Clone the repository:
+   ```bash
+   Open notebook notebook/dryfruitdetection in colab
