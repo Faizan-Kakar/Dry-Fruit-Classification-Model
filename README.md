@@ -1,23 +1,21 @@
-# Dry Fruit Detection Model
-Dry fruit detection model takes image as an input and classify the input image among the 7 categories of the dry fruits 
-i.e { Almond, Pistatios, Peanut, Walnut, Raisin, Fig, Cashew }
+# Dry Fruit Type Classification Model
 
-## 📌Project Overview
-This project implements a deep learning-based image classification model to classify dry fruits into 7 categories using the VGG16 convolutional neural network. The model is trained on a dataset of dry fruit images and leverages transfer learning to achieve high accuracy.
+The Dry Fruit Classification Model is an advanced machine learning project that utilizes transfer learning to classify images of dry fruits into different categories. By leveraging the powerful VGG16 pre-trained model, this project applies deep learning techniques to harness the features learned from large datasets and adapt them to classify dry fruits with high accuracy.
 
+## Key Features:
+- Classifies different types of dry fruits.
+- Uses deep learning techniques for image classification.
+- Achieves an accuracy of 90% on the test set.
 
-## 📑 Notebook Sections
-- ✅ 1. Import Libraries
-- ✅ 2. Load & Preprocess Data
-- ✅ 3. Model Architecture
-- ✅ 4. Training
-- ✅ 5. Evaluation
-- ✅ 6. Save & Export Results
+## Technologies Used:
+- Python
+- TensorFlow/Keras
+- OpenCV
+- NumPy, Pandas
 
+## How to Run the Model (Locally)
 
-## 📌 How to Use the Notebook in Google Colab
-1. Download Notebook from repository
-2. Open Notebook in Google colab
-3. Run the notebook step by step
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dry-fruit-classification.git
+   cd dry-fruit-classification
